@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estudando HTML, CSS e JavaScript (hiato)
 - 🌱 Aprendendo JavaScript por meio do curso Digital Innovation One (DIO)
-- 👯 Aprimorar habilidades como front-end
+- 📈 Aprimorar habilidades como front-end
 - 👨‍💻 Iniciando estudos em Python
 
 - 📫 Contate-me pelo email: eduardofrohlich121@gmail.com
