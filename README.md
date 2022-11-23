@@ -4,6 +4,7 @@
 - 🌱 Aprendendo JavaScript por meio do curso Digital Innovation One (DIO)
 - 📈 Aprimorar habilidades como front-end
 - 👨‍💻 Iniciando estudos em Python
+- ☕ POO Básica em JAVA
 
 - 📫 Contate-me pelo email: eduardofrohlich121@gmail.com
 
