@@ -1,37 +1,44 @@
-### Hello! I'm Eduardo Vinicius Frohlich
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=13678A&height=120&section=header"/>
 
-- 🔭 Currently studying HTML, CSS and JavaScript
-- 🌱 Learning JavaScript through Origamid course
-- 📈 Interested on improvoment of Full-Stack skills
-- 👨‍💻 Starting studies in MySQL
-- ☕ Basic OOP in JAVA
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=45C4B0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Eduardo+Vinicius;I'm+18+years+old;Studying+System+Analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 📫 Contact me: eduardofrohlich121@gmail.com
 
-<div align="center">
-  <a href="https://github.com/eduardofrohlich">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardofrohlich&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofrohlich&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="edu-JAVA" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="edu-MYSQL" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-  <img align="right" alt="mario-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/759137949337255940/892860358740562021/gif_do_mario.gif">
+<h1>🙋‍♂️ About me</h1>
+
+ - 🔭 Currently studying HTML, CSS, JavaScript and Java
+ - 🌱 Learning JavaScript through Origamid course
+ - 📈 Interested in improve Full-Stack skills
+ - 👨‍💻 Starting studies in MySQL
+ - ☕ Basic OOP in JAVA
+ - 📫 Contact me: eduardofrohlich121@gmail.com
+
+<h1>⚙ GitHub Analytics</h1>
+<div align="left">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eduardofrohlich&show_icons=true&count_private=true&hide_border=true&title_color=45C4B0&icon_color=45C4B0&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Vinicius github stats" /> <br>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofrohlich&layout=compact&hide_border=true&title_color=45C4B0&text_color=c9d1d9&bg_color=0d1117" />
 </div>
   
+
+
+### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white&logoColor=0D1117)&nbsp;
+![JAVA](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=white&logoColor=0D1117)&nbsp;
+ 
+
+ 
+ ### Studying in this moment:
+ ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ##
  
 <div> 
   <a href="https://www.instagram.com/eduardo_frohlich/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/gokucaju" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
   <a href = "mailto:eduardofrohlich121@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-frohlich-666b00217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+  
   ![Snake animation](https://github.com/eduardofrohlich/eduardofrohlich/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
 
