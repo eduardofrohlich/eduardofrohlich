@@ -1,12 +1,12 @@
-### Olá! Sou o Eduardo Vinicius Frohlich
+### Hello! I'm Eduardo Vinicius Frohlich
 
-- 🔭 Atualmente estudando HTML, CSS e JavaScript (hiato)
-- 🌱 Aprendendo JavaScript por meio do curso Digital Innovation One (DIO)
-- 📈 Aprimorar habilidades como front-end
-- 👨‍💻 Iniciando estudos em Python
-- ☕ POO Básica em JAVA
+- 🔭 Currently studying HTML, CSS and JavaScript
+- 🌱 Learning JavaScript through Origamid course
+- 📈 Interested on improvoment of Full-Stack skills
+- 👨‍💻 Starting studies in MySQL
+- ☕ Basic OOP in JAVA
 
-- 📫 Contate-me pelo email: eduardofrohlich121@gmail.com
+- 📫 Contact me: eduardofrohlich121@gmail.com
 
 <div align="center">
   <a href="https://github.com/eduardofrohlich">
