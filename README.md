@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=13678A&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1100FA&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=45C4B0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Eduardo+Vinicius;I'm+18+years+old;Studying+System+Analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=457b9d&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Eduardo+Vinicius;I'm+18+years+old;Studying+System+Analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <h1>🙋‍♂️ About me</h1>
