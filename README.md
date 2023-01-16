@@ -26,8 +26,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=eduardofrohlich&show_icons=true" />
 </picture>
  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eduardofrohlich&show_icons=true&count_private=true&hide_border=true&title_color=45C4B0&icon_color=45C4B0&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Vinicius github stats" /> <br>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofrohlich&layout=compact&hide_border=true&title_color=45C4B0&text_color=c9d1d9&bg_color=0d1117" />
 </div>
   
 
