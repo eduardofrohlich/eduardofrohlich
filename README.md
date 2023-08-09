@@ -5,12 +5,12 @@
 
 <h1>🙋‍♂️ About me</h1>
 
- - 🔭 Currently studying HTML, CSS, JavaScript and Java
- - 🌱 Learning JavaScript through Origamid course
- - 📈 Interested in improve Full-Stack skills
- - 👨‍💻 Starting studies in MySQL
- - ☕ Basic OOP in JAVA
- - 📫 Contact me: eduardofrohlich121@gmail.com
+- 🔭 Currently studying Java, SQL, Spring, Hibernate, HTML, CSS, and JavaScript
+- 🌱 Learning JavaScript through practical projects and online resources
+- 📈 Interested in enhancing Full-Stack development skills
+- 👨‍💻 Starting studies in advanced MySQL concepts
+- ☕ Object-Oriented Programming with Java
+- 📫 Contact me: eduardofrohlich121@gmail.com
 
 <h1>⚙ GitHub Analytics</h1>
 <div align="left">  
@@ -40,8 +40,11 @@
  
  ### Studying in this moment:
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ##
+ ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+ ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+ ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
  
+ ### Contact me:
 <div> 
   <a href="https://www.instagram.com/eduardo_frohlich/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:eduardofrohlich121@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
