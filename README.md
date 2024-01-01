@@ -5,11 +5,10 @@
 
 <h1>🙋‍♂️ About me</h1>
 
-- 🔭 Currently studying Java, SQL, Spring, Hibernate, HTML, CSS, and JavaScript
-- 🌱 Learning JavaScript through practical projects and online resources
-- 📈 Interested in enhancing Full-Stack development skills
-- 👨‍💻 Starting studies in advanced MySQL concepts
-- ☕ Object-Oriented Programming with Java
+- 🔭 Currently studying Java, SQL, Spring Framework, Hibernate and Flutter
+- 🌱 Learning API Rest and Mobile development through practical projects
+- 📈 Interested in improving Full-Stack skills
+- 👨‍💻 Experience working in Linux environments
 - 📫 Contact me: eduardofrohlich121@gmail.com
 
 <h1>⚙ GitHub Analytics</h1>
@@ -34,15 +33,19 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white&logoColor=0D1117)&nbsp;
-![JAVA](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=white&logoColor=0D1117)&nbsp;
- 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&logoColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white&logoColor=0D1117)&nbsp;
+
 
  
- ### Studying in this moment:
+ ### Studying at this moment:
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+ ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=white)
+ ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
  
  ### Contact me:
 <div> 
