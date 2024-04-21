@@ -5,7 +5,7 @@
 
 <h1>🙋‍♂️ About me</h1>
 
-- 🔭 Currently studying Java, SQL, Spring Framework, Hibernate and Flutter
+- 🔭 Currently studying Java, SQL, Spring Framework, Hibernate and Angular
 - 🌱 Learning API Rest and Mobile development through practical projects
 - 📈 Interested in improving Full-Stack skills
 - 👨‍💻 Experience working in Linux environments
@@ -45,6 +45,7 @@
  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
  ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=white)
  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+ ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
  
  ### Contact me:
