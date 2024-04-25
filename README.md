@@ -8,7 +8,7 @@
 - 🔭 Currently studying Java, SQL, Spring Framework, Hibernate and Angular
 - 🌱 Learning API Rest and Mobile development through practical projects
 - 📈 Interested in improving Full-Stack skills
-- 👨‍💻 Experience working in Linux environments
+- 👨‍💻 Experienced at working on Linux environments
 - 📫 Contact me: eduardofrohlich121@gmail.com
 
 <h1>⚙ GitHub Analytics</h1>
