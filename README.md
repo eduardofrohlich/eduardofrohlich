@@ -5,11 +5,13 @@
 
 <h1>🙋‍♂️ About me</h1>
 
-- 🔭 Currently studying Java, SQL, Spring Framework, Hibernate and Angular
-- 🌱 Learning API Rest and Mobile development through practical projects
-- 📈 Interested in improving Full-Stack skills
-- 👨‍💻 Experienced at working on Linux environments
-- 📫 Contact me: eduardofrohlich121@gmail.com
+- 🔭 Currently working as a Software Development Intern at Prime Software, Curitiba.
+- 🎓 Pursuing a Bachelor's degree in System Analysis and Development at the Federal University of Paraná.
+- 💼 Experienced in Java, Spring, Hibernate, Angular, and developing REST APIs.
+- 🌱 Learning more about cloud solutions with AWS and containerization with Docker.
+- 👨‍💻 Agile methodologies enthusiast and experienced at working in Linux environments.
+- 📫 Contact me: [eduardofrohlich121@gmail.com](mailto:eduardofrohlich121@gmail.com)
+
 
 <h1>⚙ GitHub Analytics</h1>
 <div align="left">  
