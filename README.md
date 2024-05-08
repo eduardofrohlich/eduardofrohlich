@@ -12,6 +12,7 @@
 - 👨‍💻 Agile methodologies enthusiast and experienced at working in Linux environments.
 - 📫 Contact me: [eduardofrohlich121@gmail.com](mailto:eduardofrohlich121@gmail.com)
 
+  ![](https://komarev.com/ghpvc/?username=eduardofrohlich)
 
 <h1>⚙ GitHub Analytics</h1>
 <div align="left">  
@@ -29,8 +30,6 @@
  
 </div>
   
-
-
 ### Main skills:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&logoColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white&logoColor=0D1117)&nbsp;
@@ -45,15 +44,14 @@
  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
  ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
+### My Articles
+![Medium](https://medium.com/@eduardofrohlich121/how-to-implement-styled-email-sending-using-amazon-ses-and-spring-boot-ccce787003f3)
  
  ### Contact me:
 <div> 
   <a href="https://www.instagram.com/eduardo_frohlich/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:eduardofrohlich121@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-frohlich-666b00217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
-  ![Snake animation](https://github.com/eduardofrohlich/eduardofrohlich/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
 
