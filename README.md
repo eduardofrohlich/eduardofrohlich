@@ -14,8 +14,8 @@
 
   ![](https://komarev.com/ghpvc/?username=eduardofrohlich)
 
+<div align="center">
 <h1>⚙ GitHub Analytics</h1>
-<div align="left">  
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=eduardofrohlich&show_icons=true&theme=dark"
@@ -27,9 +27,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=eduardofrohlich&show_icons=true" />
 </picture>
- 
-</div>
-  
+
 ### Main skills:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&logoColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white&logoColor=0D1117)&nbsp;
@@ -47,6 +45,8 @@
 ### My Articles
 ![Medium](https://medium.com/@eduardofrohlich121/how-to-implement-styled-email-sending-using-amazon-ses-and-spring-boot-ccce787003f3)
  
+</div>
+
  ### Contact me:
 <div> 
   <a href="https://www.instagram.com/eduardo_frohlich/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
