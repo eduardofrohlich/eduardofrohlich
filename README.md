@@ -5,6 +5,7 @@
 
 <h1>🙋‍♂️ About me</h1>
 
+- 🏆 Software Engineer with over 1 year of experience in Java, Spring Boot, and API development.
 - 🔭 Currently working as a Software Development Intern at Prime Software, Curitiba.
 - 🎓 Pursuing a Bachelor's degree in System Analysis and Development at the Federal University of Paraná.
 - 💼 Experienced in Java, Spring, Hibernate, Angular, and developing REST APIs.
@@ -32,19 +33,22 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&logoColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white&logoColor=0D1117)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
  
  ### Studying at this moment:
- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
- ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
- ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+ ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+ ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+ ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+ ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### My Articles
-![Medium](https://medium.com/@eduardofrohlich121/how-to-implement-styled-email-sending-using-amazon-ses-and-spring-boot-ccce787003f3)
- 
+<a href="https://medium.com/@eduardofrohlich121/how-to-implement-styled-email-sending-using-amazon-ses-and-spring-boot-ccce787003f3" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+</a>
 
  ### Contact me:
 <div> 
