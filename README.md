@@ -45,7 +45,6 @@
 ### My Articles
 ![Medium](https://medium.com/@eduardofrohlich121/how-to-implement-styled-email-sending-using-amazon-ses-and-spring-boot-ccce787003f3)
  
-</div>
 
  ### Contact me:
 <div> 
@@ -55,3 +54,4 @@
 
 </div>
 
+</div>
