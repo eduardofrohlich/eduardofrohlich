@@ -6,7 +6,7 @@
 <h1>🙋‍♂️ About me</h1>
 
 - 🏆 Software Engineer with over 1 year of experience in Java, Spring Boot, and API development.
-- 🔭 Currently working as a Software Development Intern at Prime Software, Curitiba.
+- 🔭 Currently working with deployment of online websites, as a freelancer.
 - 🎓 Pursuing a Bachelor's degree in System Analysis and Development at the Federal University of Paraná.
 - 💼 Experienced in Java, Spring, Hibernate, Angular, and developing REST APIs.
 - 🌱 Learning more about cloud solutions with AWS and containerization with Docker.
